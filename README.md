@@ -19,7 +19,7 @@ This repository contains a lightweight Excel template built to make personal fin
 4. **Start Tracking:** Begin entering your own daily expenses. The totals and formulas will update automatically!
 
 ## 📸 Screenshot
-![Expense Tracker Preview](link-to-your-image.png)
+![Expense Tracker Preview](Preview.png)
 
 ## 🛠️ Built With
 * Microsoft Excel
