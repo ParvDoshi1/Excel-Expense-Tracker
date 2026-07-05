@@ -55,7 +55,8 @@ This project logs day-to-day expenses under categories like **Food, Office, Fun,
 - Add monthly/weekly grouping with date column
 - Automate the row-range in summary formulas using dynamic ranges (e.g., `SUM(E3:E1000)` or Excel Tables)
 
-## 👤 Author
-
-Parv
+## 👨‍💻 Author
+**Parv Doshi**
+* GitHub: [@ParvDoshi1](https://github.com/ParvDoshi1)
+* LinkedIn: www.linkedin.com/in/parv-doshi-6440b8378
 
